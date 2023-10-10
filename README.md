@@ -23,7 +23,7 @@ Antes de utilizar a API Dindin, você deve configurar o ambiente corretamente. S
     JWT_SECRET=seu-segredo-jwt
     ```
 
-4. **Iniciar a API**: Inicie a API executando o arquivo `server.js` usando o comando `npm run dev`.
+4. **Iniciar a API**: Inicie a API executando usando o comando no terminal: `npm run dev`.
 
 ## Autenticação com JWT
 
